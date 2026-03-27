@@ -1,4 +1,4 @@
-# Cluade Caude - UIGen
+# Claude Code - UIGen
 
 AI-powered React component generator with live preview.
 
